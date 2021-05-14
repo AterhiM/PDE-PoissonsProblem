@@ -15,5 +15,9 @@ problem.
 
 In this repository, you will find two notebooks. Each one is precisely dedicated to a certain method.
 
+## **Authors:**
+
+* **ATERHI Mouad** - [AterhiM](https://github.com/AterhiM)
+* **BOUCHAARA Mustapha** -[mustaphabouchaara](https://github.com/mustaphabouchaara) 
 
 ## **Enjoy!**
