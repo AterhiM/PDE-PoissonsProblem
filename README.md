@@ -1,4 +1,4 @@
-# **Partial Derivative Equation: Poisson's Problem**
+# **partial Differential Equations: Poisson's Problem**
 
 This is an open source small project that enables you to discover Poisson's problem as an interesting 
 example of a PDE.
